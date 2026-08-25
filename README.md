@@ -1,5 +1,14 @@
 # Repetition-RL
 
+[![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Implementation-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![TD3 & SAC](https://img.shields.io/badge/Algorithms-TD3%20%7C%20SAC-6F42C1)](#supported-algorithms)
+[![IER & SER](https://img.shields.io/badge/Repetition-IER%20%7C%20SER-8A2BE2)](#supported-repetition-modes)
+[![MuJoCo](https://img.shields.io/badge/Benchmark-MuJoCo-00599C)](https://mujoco.org/)
+[![DeepMind Control Suite](https://img.shields.io/badge/Benchmark-DeepMind%20Control%20Suite-blue)](https://github.com/google-deepmind/dm_control)
+[![Robotics](https://img.shields.io/badge/Evaluation-Real--World%20Robotics-2E8B57)](#environments)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 <p align="center">
   <img src="assets/exploration-explotation-repetition.png" width="90%">
 </p>
