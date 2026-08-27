@@ -260,9 +260,7 @@ Repetition/
 * Ant-v4
 * HalfCheetah-v4
 * Humanoid-v4
-* Walker2d-v4
 * Hopper-v4
-* Pendulum-v1
 
 ## DeepMind Control Suite
 
@@ -270,7 +268,6 @@ Repetition/
 * Cheetah-Run
 * Cartpole-Swingup
 * Finger-Turn-Hard
-* Reacher-Hard
 
 ## Real-World Robotics
 
